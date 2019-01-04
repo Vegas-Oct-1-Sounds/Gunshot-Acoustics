@@ -3,7 +3,7 @@ Research, Observations, Code, Analysis regarding Gunshot Acoustics, particularly
 
 Required reading: 
 
-[Summary of Gunshot Acoustics](Library/Summary\ of\ Gunshot\ Acoustics.pdf)
+[Summary of Gunshot Acoustics](Library/'Summary of Gunshot Acoustics.pdf')
 [nothing](Library/nothing)
 
 See the wiki https://github.com/Vegas-Oct-1-Sounds/Gunshot-Acoustics/wiki
