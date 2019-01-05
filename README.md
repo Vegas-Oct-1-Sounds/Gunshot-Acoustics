@@ -7,7 +7,7 @@ Required reading:
 * [Shockwave and Muzzle Blast Classification (read section on STFT)](Library/Shockwave%20and%20Muzzle%20Blast%20Classification%20vi%20Joint%20Time%20Frequency%20and%20Wavelet%20Analysis.pdf)
 * [Audio Samples Visualised via Spectograms](Papers/Sound_Samples_With_Spectograms.pdf)
 
-Main Content
+### Main Content
 
 * [Wiki](https://github.com/Vegas-Oct-1-Sounds/Gunshot-Acoustics/wiki)  
 * [Papers](Papers)   
