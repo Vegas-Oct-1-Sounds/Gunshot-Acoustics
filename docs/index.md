@@ -17,4 +17,4 @@ Suggested reading:
 https://github.com/Vegas-Oct-1-Sounds/Gunshot-Acoustics
 
 [two](other/two)
-[Papers](papers/index.md
+[Papers](papers/index.md)
