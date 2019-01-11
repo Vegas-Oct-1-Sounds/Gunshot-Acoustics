@@ -15,3 +15,5 @@ Required reading:
 
 [one](one)
 https://github.com/Vegas-Oct-1-Sounds/Gunshot-Acoustics
+
+[two](other/two)
