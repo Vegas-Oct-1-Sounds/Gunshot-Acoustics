@@ -29,6 +29,5 @@ presented in other material/videos and will be explained at the appropriate time
 ==============================  Mapping Table ======================================
 
 	NUEMONIC	                     URL
-	under	                        
-	https://youtu.be/l-IEme0aGMA
+	under	                        https://youtu.be/l-IEme0aGMA
 	
