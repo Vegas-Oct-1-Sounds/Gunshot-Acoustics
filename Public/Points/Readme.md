@@ -1,7 +1,7 @@
 
 This directory contains information identifying audio points of interest within a video.  Two formats are given, one for Sonic Visualiser, and one for Audacity.  Each file is a text file whose name begins with a unique pnuemonic identifying the source of the information.  The pnuemonic is followed by a short string identifying the type of information contained within the file followed by either “_aud.txt” for audacity or “.txt” for Sonic Visualiser.
 
-This short string identifying content type is:
+This short string identifying content type is:<\n>
 
 	“_muzzle”		    muzzle blast event
 	“_sonic”		    sonic shock wave event
@@ -28,5 +28,5 @@ presented in other material/videos and will be explained at the appropriate time
 
 ==============================  Mapping Table ======================================
 
-NUEMONIC                     URL
+NUEMONIC                     URL,\n>
 under                        https://youtu.be/l-IEme0aGMA
